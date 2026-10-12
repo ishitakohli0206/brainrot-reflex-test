@@ -1,0 +1,8 @@
+# Robots.txt for Brainrot Reflex Test
+# Replace https://YOUR-DOMAIN.com with your verified production domain
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
