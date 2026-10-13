@@ -275,8 +275,8 @@ export const GAME_CONFIG = {
     bgGlow: 'rgba(251, 191, 36, 0.6)',
   },
 
-  // Production Domain Configuration (replace with your real deployment domain)
-  PRODUCTION_DOMAIN: 'https://YOUR-DOMAIN.com',
+  // Production Domain Configuration
+  PRODUCTION_DOMAIN: 'https://brainrotreflextest.netlify.app/',
 
   // SEO & Social Defaults
   SITE_NAME: 'Brainrot Reflex Test',

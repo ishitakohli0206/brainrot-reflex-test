@@ -1,8 +1,8 @@
 # Robots.txt for Brainrot Reflex Test
-# Replace https://YOUR-DOMAIN.com with your verified production domain
+# Verified production domain: https://brainrotreflextest.netlify.app/
 
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
+Sitemap: https://brainrotreflextest.netlify.app/sitemap.xml
